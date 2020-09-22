@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\AccountMicroservice\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\user\source\repos\AccountMicroservice\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\user\source\repos\AccountMicroservice\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\user\source\repos\AccountMicroservice\obj\Debug\netcoreapp3.1\AccountMicroservice.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AccountMicroservice\obj\Debug\netcoreapp3.1\AccountMicroservice.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AccountMicroservice\obj\Debug\netcoreapp3.1\AccountMicroservice.AssemblyInfo.cs
+C:\Users\user\source\repos\AccountMicroservice\obj\Debug\netcoreapp3.1\AccountMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\AccountMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\AccountMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\user\source\repos\AccountMicroservice\obj\Debug\netcoreapp3.1\staticwebassets\AccountMicroservice.StaticWebAssets.xml
